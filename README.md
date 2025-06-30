@@ -6,7 +6,7 @@
 
 🌱 I’m a self-taught front-end developer passionate about building clean, fast, and responsive websites.  
 💡 I love turning ideas into beautiful user interfaces and bringing designs to life through code.  
-🚀 Currently focusing on **JavaScript**, **React**, and deepening my skills in **responsive design**.
+🚀 Currently focusing on **JavaScript**, **React** . 
 
 ---
 
