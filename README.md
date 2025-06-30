@@ -1,5 +1,3 @@
-# Hi, I'm Basma 👋  
-### Front-End Developer 
 
 <h2 align="center">Hi, I'm Basma 👋</h2>
 <h3 align="center">Front-End Developer | Tech Lover | Self-Taught</h3>
