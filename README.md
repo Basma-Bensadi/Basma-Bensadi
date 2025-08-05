@@ -14,7 +14,7 @@
 `HTML` • `CSS` • `JavaScript` • `Git` • `GitHub` • `VS Code`  
 
 **Currently Learning:**  
-`JavaScript (Advanced)` • `React` • `SASS` • `UI/UX Principles`
+`JavaScript (Advanced)` • `React` • `C` • `CS50 Course`
 
 ---
 
